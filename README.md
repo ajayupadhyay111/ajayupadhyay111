@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ajay Upadhyay</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-- 🔭 I’m currently working on **E commerce**
+- 🔭 I’m currently working on **BaatCheet** my social media web app
 
-- 🌱 I’m currently learning **Typescript,Nextjs,Langchain**
+- 🌱 I’m currently learning **Typescript,Nextjs**
 
-- 👨‍💻 All of my projects are available at [ajayupadhyay.site](ajayupadhyay.site)
+- 👨‍💻 All of my projects are available at [ajayupadhyay.site](http://ajayupadhyay.site)
 
 - 💬 Ask me about **React,Nodejs,Express.js,Javascript,MongoDB**
 
