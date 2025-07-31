@@ -19,7 +19,7 @@ I enjoy solving problems, contributing to open-source, and constantly learning n
 
 Check out my previous work and contributions on my old GitHub account:
 
-👉 [Old GitHub Profile](https://github.com/oldusername)
+👉 [Old GitHub Profile](https://github.com/coderAjju)
 
 
 ---
