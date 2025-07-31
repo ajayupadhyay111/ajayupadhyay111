@@ -15,6 +15,14 @@ I enjoy solving problems, contributing to open-source, and constantly learning n
 - 📫 How to reach me: **ajayupadhyaycse@gmail.com**
 - 📝 Check out my portfolio: [ajayupadhyay.vercel.app](https://ajayupadhyay.vercel.app)
 
+## 👤 My Previous GitHub Account
+
+Check out my previous work and contributions on my old GitHub account:
+
+👉 [Old GitHub Profile](https://github.com/oldusername)
+![Old GitHub Stats](https://github-readme-stats.vercel.app/api?username=oldusername&show_icons=true&theme=radical)
+
+
 ---
 
 ## 🚀 Languages and Tools
