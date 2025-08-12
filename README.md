@@ -10,10 +10,10 @@
 I'm a full-stack developer who loves building modern web applications using the **MERN** stack.  
 I enjoy solving problems, contributing to open-source, and constantly learning new technologies.
 
-- 🌱 I’m currently learning **Next.js**, **TypeScript**, and **Cloud Technologies**
+- 🌱 I’m currently learning RabbitMQ,Kafka, and **Cloud Technologies**
 - 💬 Ask me about **React, Node.js, MongoDB, Express**
-- 📫 How to reach me: **ajayupadhyaycse@gmail.com**
-- 📝 Check out my portfolio: [ajayupadhyay.vercel.app](https://ajayupadhyay.vercel.app)
+- 📫 How to reach me: **upadhyayajay156@gmail.com**
+- 📝 Check out my portfolio: [ajayupadhyay.site](https://ajayupadhyay.site)
 
 ## 👤 My Previous GitHub Account
 
