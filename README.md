@@ -1,55 +1,94 @@
-<!-- Header Banner -->
-<h1 align="center">🌟 Ajay Upadhyay 🌟</h1>
-<h3 align="center">Full Stack Developer | MERN | AI Enthusiast | Backend Explorer</h3>
+<!-- ===================== HEADER ===================== -->
 
+<div align="center">
+
+<h1>Ajay Upadhyay</h1>
+
+<p>
+  <b>Full Stack Engineer • MERN & React Native • Backend & AI Curious</b>
+</p>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?size=21&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+Web+%26+Mobile+Apps;Learning+Scalable+Backend+Systems;Exploring+AI+%26+Cloud;Turning+Ideas+Into+Products" />
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/ajay-upadhyay-178264221/">LinkedIn</a> •
+  <a href="https://portfolio-mauve-iota-11.vercel.app/">Portfolio</a> •
+  <a href="mailto:upadhyayajay156@gmail.com">Email</a>
+</p>
+
+</div>
+
+---
+
+## 👋 About
+
+- 🔭 **Currently working as**: Full Stack Developer Intern at **Akdenar**  
+- 🌱 **Currently learning**:  
+  - React Native & Expo (production-ready mobile apps)  
+  - Redis & RabbitMQ (performance & async systems)  
+  - AWS & Docker (deployment and scalability)  
+  - AI integrations for real-world backend automation  
+
+---
+
+## 🧠 Tech I Use (and break things with)
+## 🧠 Tech Stack
+
+### 🎨 Frontend
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=6F3DF4&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Developer;Loves+AI+%26+Backend+Engineering;Always+Learning+New+Tech;Open+for+Opportunities+🚀" />
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css,typescript,nextjs,javascript" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 💻 MERN Stack Developer with 1.5+ years of hands-on project building  
-- ⚡ Currently exploring **Redis, RabbitMQ** and **AWS** for scalable backend apps  
-- 🤝 Open to collaborate on **AI-powered apps & full-stack projects**  
-- 🎯 Goal: Land a **full-time dev role** & keep solving real-world problems  
-- 🧑‍💻 Currently working as a **Full Stack Developer Intern** at [Akdenar](https://akdenar.com) (since July 2025)
-
----
-
-## 🛠️ Tech Arsenal
+### 🧩 Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,nodejs,express,mongodb,postgres,prisma,git,github" />
-  <img src="https://skillicons.dev/icons?i=aws,redis,docker,rabbitmq,html,css,typescript,python,django,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,redis,rabbitmq" />
 </p>
 
 ---
 
-## 🌟 Highlight Projects
-🔹 **[AI Resume Shortlisting](https://ai-resume-shortlisting-system-3.onrender.com)** – Smart resume parser with job matching using AI  
-🔹 **[Food Delivery App]()** – End-to-end MERN app with live order tracking  
-🔹 **[ThreadClone](https://thread-clone-three-pi.vercel.app)** – Social media clone with auth, posts & follows  
+### ⚙️ DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,firebase,git,github,vscode" />
+</p>
+
 
 ---
 
-## 📊 GitHub Vibes  
+## 🧩 What I Enjoy Building
+
+- Scalable backend APIs  
+- AI-assisted features that save real human time  
+- Clean mobile apps with React Native  
+- Systems that don’t break at scale (or at least fail gracefully 😄)
+
+---
+
+## 🕰️ Previous GitHub Account
+
+- 🔗 https://github.com/coderAjju
+
+---
+
+### Current Account
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajayupadhyay111&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajayupadhyay111&theme=tokyonight" height="165" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajayupadhyay111&theme=react-dark" />
 </p>
 
 ---
 
-## 🌐 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/ajay-upadhyay-178264221/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:upadhyayajay156@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://portfolio-mauve-iota-11.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6F3DF4?logo=vercel&logoColor=white" /></a>
-</p>
+## ☕ Fun Fact
+
+> I like backend problems where **the bug isn’t obvious**  
+> and mobile apps where **performance actually matters**
 
 ---
 
-✨ *"Turning coffee ☕ into clean code and ideas into reality 🚀"*  
+<div align="center">
+
+✨ *Always learning. Always shipping. Always improving.* ✨
+
+</div>
