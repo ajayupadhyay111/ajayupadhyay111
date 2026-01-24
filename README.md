@@ -23,7 +23,7 @@
 ---
 
 # 💫 About Me:
-🔭 worked as: Full Stack Developer at Akdenar<br>🌱 Currently learning:<br>React Native & Expo (production-ready mobile apps)<br>Redis & RabbitMQ (performance & async systems)<br>AWS & Docker (deployment and scalability)<br>AI integrations for real-world backend automation
+🔭 worked as: Full Stack Developer at Imapro<br>🌱 Currently learning:<br>React Native & Expo (production-ready mobile apps)<br>Redis & RabbitMQ (performance & async systems)<br>AWS & Docker (deployment and scalability)<br>AI integrations for real-world backend automation
 
 
 ## 🌐 Socials:
