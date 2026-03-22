@@ -14,7 +14,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/ajay-upadhyay-178264221/">LinkedIn</a> •
-  <a href="https://portfolio-mauve-iota-11.vercel.app/">Portfolio</a> •
+  <a href="https://ajayupadhyay.online">Portfolio</a> •
   <a href="mailto:upadhyayajay156@gmail.com">Email</a>
 </p>
 
