@@ -1,66 +1,125 @@
 <!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-<h1>Ajay Upadhyay</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=220&section=header&text=Ajay%20Upadhyay&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20React%20Native%20%E2%80%A2%20Backend%20%E2%80%A2%20AI%20Automation&descAlignY=58&descSize=18" width="100%" />
 
-<p>
-  <b>Full Stack Engineer • MERN & React Native • Backend & AI Curious</b>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=I+ship+mobile+apps+%26+scalable+backends;12%2B+products+live+on+Play+Store+%26+the+web;WhatsApp+AI+bots+%7C+Booking+systems+%7C+SaaS+MVPs;Turning+ideas+into+products+that+earn" />
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?size=21&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+Web+%26+Mobile+Apps;Learning+Scalable+Backend+Systems;Exploring+AI+%26+Cloud;Turning+Ideas+Into+Products" />
-</p>
+<br/><br/>
 
-<p>
-  <a href="https://www.linkedin.com/in/ajay-upadhyay-178264221/">LinkedIn</a> •
-  <a href="https://ajayupadhyay.online">Portfolio</a> •
-  <a href="mailto:upadhyayajay156@gmail.com">Email</a>
-</p>
+<a href="https://ajayupadhyay.online"><img src="https://img.shields.io/badge/Portfolio-ajayupadhyay.online-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ajay-upadhyay-178264221/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:upadhyayajay156@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ajayupadhyay111&label=Profile%20Views&color=7C3AED&style=flat-square" />
 
 </div>
 
 ---
 
-# 💫 About Me:
-🔭 worked as: Full Stack Developer at Imapro<br>🌱 Currently learning:<br>React Native & Expo (production-ready mobile apps)<br>Redis & RabbitMQ (performance & async systems)<br>AWS & Docker (deployment and scalability)<br>AI integrations for real-world backend automation
+## 👨‍💻 About Me
 
+```js
+const ajay = {
+  role: "Full Stack Engineer (MERN + React Native)",
+  base: "Lucknow, India 🇮🇳 — open to remote",
+  previously: "Full Stack Developer @ Imapro",
+  now: "Building apps, stores & AI automations for founders and D2C brands",
+  currentlyLearning: ["AWS", "Docker", "AI-powered backend automation"],
+  strength: "Bugs that aren't obvious + mobile apps where performance matters",
+  availableFor: ["Freelance", "Contract", "Full-time"],
+};
+```
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-upadhyay-178264221/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://ajayupadhyay.online)
+## 🚀 What I Build
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ajayupadhyay111&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ajayupadhyay111&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayupadhyay111&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+| | |
+|---|---|
+| 📱 **Mobile Apps** | React Native + Expo apps live on Google Play (BLE, WebSockets, in-app purchases, streaming) |
+| 🌐 **Web & E-Commerce** | Next.js / Shopify stores with Razorpay, coupon engines, local SEO |
+| 🤖 **AI & Automation** | WhatsApp Business API bots, AI chatbots, automated booking flows |
+| ⚙️ **Backend Systems** | Node.js / FastAPI APIs, real-time systems, queues and caching |
 
-## 🧩 What I Enjoy Building
+## 🏆 Featured Projects
 
-- Scalable backend APIs  
-- AI-assisted features that save real human time  
-- Clean mobile apps with React Native  
-- Systems that don’t break at scale (or at least fail gracefully 😄)
+| Project | What it is | Stack |
+|---|---|---|
+| 🕉️ **Sanatan Rahasya Lok** | Streaming app + admin panel | React Native, Expo, Next.js, Bunny Stream |
+| 👓 [**IMI Glasses**](https://play.google.com/store/apps/details?id=com.aselea.imiglass) | Smart-glasses companion app with voice AI | React Native, BLE |
+| 🏏 [**grypX**](https://play.google.com/store/apps/details?id=com.Grypx.app) | Live sports scoring app | React Native, WebSockets |
+| 💕 [**LoveMe**](https://play.google.com/store/apps/details?id=com.loveme.intldating) | Dating app with GPS and subscriptions | React Native, in-app purchases |
+| 🛍️ [**Alfazex**](https://alfazex.com/) | Ethnic wear e-commerce store | Next.js, Tailwind, Razorpay |
+| 💪 [**Enerazon Nutrition**](https://enerazonnutrition.com/) | D2C supplement store with coupon engine | Next.js, Node.js |
+| 🎨 [**The Mehendi Studio**](https://mehendistudio.in/) | Booking platform with AI chatbot | Next.js, WhatsApp API, Razorpay |
+| 🥛 [**Morning India**](https://www.morningindiavidyakalp.com/) | Milk subscription site | E-commerce, local SEO |
 
----
+👉 **[See all 12+ projects & case studies →](https://ajayupadhyay.online)**
 
-## 🕰️ Previous GitHub Account
+## 🛠️ Tech Arsenal
 
-- 🔗 https://github.com/coderAjju
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css&perline=10" />
 
----
+**Frontend & Mobile**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,figma&perline=10" />
 
-## ☕ Fun Fact
+**Backend & APIs**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,socketio,prisma&perline=10" />
 
-> I like backend problems where **the bug isn’t obvious**  
-> and mobile apps where **performance actually matters**
+**Databases & Queues**<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,rabbitmq,firebase&perline=10" />
 
----
+**DevOps & Cloud**<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,vercel,netlify,git,github&perline=10" />
+
+**Testing & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=jest,vitest,postman,swagger&perline=10" />
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-✨ *Always learning. Always shipping. Always improving.* ✨
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ajayupadhyay111&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayupadhyay111&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ajayupadhyay111&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ajayupadhyay111&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+## 🌱 Currently
+
+- 🔭 Production-ready **React Native + Expo** apps
+- ⚡ **Redis & RabbitMQ** for performance and async systems
+- ☁️ **AWS & Docker** for deployment and scale
+- 🤖 **AI integrations** for real-world backend automation
+
+## 💬 Let's Work Together
+
+Got an idea, a store, or an app that needs to ship? I build **websites, mobile apps, WhatsApp AI bots and SaaS MVPs**, directly, with no middlemen.
+
+<div align="center">
+
+<a href="https://ajayupadhyay.online"><img src="https://img.shields.io/badge/🚀%20Start%20a%20Project-7C3AED?style=for-the-badge" /></a>
+
+</div>
+
+> 🐞 I like backend problems where **the bug isn't obvious**
+> 📱 and mobile apps where **performance actually matters**
+
+🕰️ Previous account: [coderAjju](https://github.com/coderAjju)
+
+<div align="center">
+
+*Always learning. Always shipping. Always improving.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=120&section=footer" width="100%" />
 
 </div>
